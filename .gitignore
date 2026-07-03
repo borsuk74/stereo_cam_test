@@ -1,0 +1,5 @@
+bags/
+env/
+.vscode
+icm209*
+__pycache__
